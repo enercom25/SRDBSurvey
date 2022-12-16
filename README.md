@@ -1,4 +1,4 @@
-# Satellite Reference Database: a Survey Study
+# Satellite Reference Database Scope and Data Organization: A Literature Review
 This page lists the links to the 4 appendices (A, B, C and D) referenced in the paper *Satellite Reference Database: a Survey Study*.
 
 ## Appendix-A: https://github.com/enercom25/SRDBSurvey/blob/main/Appendix-A.pdf
